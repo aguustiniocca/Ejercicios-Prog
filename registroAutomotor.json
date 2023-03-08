@@ -1,0 +1,21 @@
+[{
+    "marca" : "Chevrolet",
+    "modelo" : "Corsa",
+    "anio" : 2000
+},{
+    "marca" : "Ford",
+    "modelo" : "Fiesta",
+    "anio" : 2015
+},{
+    "marca" : "Fiat",
+    "modelo" : "1",
+    "anio" : 1995
+},{
+    "marca" : "Fiat",
+    "modelo" : "128",
+    "anio" : 1995
+},{
+    "marca" : "Fiat",
+    "modelo" : "147",
+    "anio" : 1990
+}]
